@@ -1,34 +1,43 @@
 # Adrianna Rose Dooley
 
-FSU Cyber Criminology student and incoming Juris Master candidate focused on AI, cybersecurity, privacy, systems, and emerging technologies. Currently seeking job and internship opportunities where I can contribute, learn quickly, and grow in high impact environments.
-
+Incoming Space Systems Engineering candidate at Johns Hopkins University focused on spacecraft systems, orbital mechanics, and autonomous space technologies. Seeking internships in space systems engineering, aerospace design, and mission critical spacecraft development.
 ## Current Focus
 
-* Applied AI workflow projects
-* Cybersecurity and risk analysis
-* Technical systems learning
-* Building a strong technical portfolio
-* Expanding programming and research experience
-* Exploring pathways into advanced science and engineering fields
+*Spacecraft systems engineering and architecture
+
+*Orbital mechanics and trajectory fundamentals
+
+*Space mission design and systems integration
+
+*Autonomous space systems and AI assisted operations
+
+*Space vehicle subsystems (GNC, power, communications, structures)
+
+*Computational modeling and engineering simulation
+
+*End to end systems thinking for aerospace missions
 
 ## Featured Repository
 
 ### AI Workflow Projects
 
-Applied AI prototypes focused on research automation, structured reasoning, productivity, and security use cases.
+Applied AI systems focused on automation, structured reasoning, and space/aerospace engineering use cases, including simulation support and systems optimization.
+
 
 ## Education
 
 Florida State University
-B.S. Cyber Criminology (Expected 2026)
+B.S. Cyber Criminology (July 31, 2026)
 
-Florida State University College of Law
-Juris Master – Cybersecurity, Privacy & Technology Risk Management
+Johns Hopkins University
+M.S. Space Systems Engineering (Incoming)
+
 
 ## Interests
 
-Artificial Intelligence • Cybersecurity • Privacy • Computer Systems • Digital Forensics • Risk Management • Space Technology • Astrophysics • Autonomous Systems • Scientific Innovation • National Security Technology • Advanced Research • Technical Entrepreneurship • Emerging Technologies
+Spacecraft Design • Space Systems Engineering • Orbital Mechanics • Astrodynamics • Mission Design • Guidance, Navigation & Control (GNC) • Autonomous Systems • Aerospace Structures • Propulsion Concepts • Systems Engineering • AI for Space Applications • Computational Modeling • Space Exploration Technologies
+
 
 ## Career Goals
 
-Seeking internships or opportunities in AI, cybersecurity, risk, privacy, research, or innovative technical environments. Long term, I am interested in interdisciplinary work connecting technology, science, security, and space exploration.
+Seeking internship opportunities at NASA, SpaceX, and Lockheed Martin in spacecraft systems, aerospace engineering, and space mission development. Long term goal is to contribute to the design, integration, and operation of advanced spacecraft systems, autonomous space technologies, and mission critical aerospace architectures for exploration and defense applications.
