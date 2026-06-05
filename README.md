@@ -27,7 +27,8 @@ Applied AI systems focused on automation, structured reasoning, and space/aerosp
 ## Education
 
 Florida State University
-B.S. Cyber Criminology (July 31, 2026)
+B.S. Cyber Criminology (Computer Science and cybersecurity-focused coursework) July 31, 2026
+
 
 Johns Hopkins University
 M.S. Space Systems Engineering (Incoming)
