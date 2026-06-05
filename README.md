@@ -3,19 +3,19 @@
 Incoming Space Systems Engineering candidate at Johns Hopkins University focused on spacecraft systems, orbital mechanics, and autonomous space technologies. Seeking internships in space systems engineering, aerospace design, and mission critical spacecraft development.
 ## Current Focus
 
-*Spacecraft systems engineering and architecture
+* Spacecraft systems engineering and architecture
 
-*Orbital mechanics and trajectory fundamentals
+* Orbital mechanics and trajectory fundamentals
 
-*Space mission design and systems integration
+* Space mission design and systems integration
 
-*Autonomous space systems and AI assisted operations
+* Autonomous space systems and AI assisted operations
 
-*Space vehicle subsystems (GNC, power, communications, structures)
+* Space vehicle subsystems (GNC, power, communications, structures)
 
-*Computational modeling and engineering simulation
+* Computational modeling and engineering simulation
 
-*End to end systems thinking for aerospace missions
+* End to end systems thinking for aerospace missions
 
 ## Featured Repository
 
