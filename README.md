@@ -1,6 +1,6 @@
 # Adrianna Rose Dooley
 
-Incoming Space Systems Engineering candidate at Johns Hopkins University focused on spacecraft systems, orbital mechanics, and autonomous space technologies. Seeking internships in space systems engineering, aerospace design, and mission critical spacecraft development.
+Incoming Space Systems Engineering Candidate at Johns Hopkins University focused on spacecraft systems, orbital mechanics, and autonomous space technologies. Seeking internships in space systems engineering, aerospace design, and mission critical spacecraft development.
 ## Current Focus
 
 * Spacecraft systems engineering and architecture
